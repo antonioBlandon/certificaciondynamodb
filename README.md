@@ -1,4 +1,4 @@
-# certificaciondynamodb
+# Basic connection to DynamoDB
 This repository shows the connection with a DynamoDB Table through credentials and how connect with your local version. The code doesnt have a  good programming practices becuase its focus is show an easy use of the DyanmoDB's SDK.
 
 The steps used to set up DynamoDB Local are the following:
